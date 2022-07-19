@@ -70,8 +70,6 @@ public class Main {
     public static void main(String[] args) {
         Main control;
         control=new Main();
-        System.out.println("Ejercicios tema 4");
-
         control.controlIf();
         control.controlWhile();
         control.controldowhile();
